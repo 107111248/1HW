@@ -11,7 +11,7 @@ namespace _1HW
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            int num = 7;
+            int num = 17;
             string ans = " ";
             for (int i = 2; i < num; i++)
             {
